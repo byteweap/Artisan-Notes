@@ -1,3 +1,3 @@
 # Table of contents
 
-* [🎯 Git提交规范](README.md)
+* [命名](README.md)
